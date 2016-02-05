@@ -1,6 +1,8 @@
+db.sqlite3
 *.pyc
 DS_Store
 venv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

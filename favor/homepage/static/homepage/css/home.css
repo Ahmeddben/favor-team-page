@@ -1,0 +1,15 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+div.size {
+  background-image: url("http://i.imgur.com/ZKCE0ke.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 500px;
+}
